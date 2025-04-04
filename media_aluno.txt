@@ -1,0 +1,4 @@
+NOME:joao;MEDIA:7.0;STATUS:Aprovado
+NOME:tiago;MEDIA:6.0;STATUS:Aprovado
+NOME:bruno;MEDIA:3.5;STATUS:Reprovado
+NOME:dalton;MEDIA:5.0;STATUS:Reprovado

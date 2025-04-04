@@ -1,0 +1,8 @@
+Produto;Categoria;Quantidade;Preco_Unitario;Data
+Caneta Azul;Papelaria;10;1.50;2024-03-01
+Caderno Universitario;Papelaria;5;12.90;2024-03-01
+Mouse Optico;Eletronicos;2;45.00;2024-03-02
+Teclado USB;Eletronicos;1;89.90;2024-03-02
+Lapis Preto;Papelaria;20;0.80;2024-03-03
+Cabo HDMI;Eletronicos;3;25.00;2024-03-04
+Livro de Python;Livros;1;55.00;2024-03-04
